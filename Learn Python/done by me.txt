@@ -1,0 +1,24 @@
+class Inheritance Example
+class magic methods 
+class inheritance
+classmethod
+super function
+def function
+list comprehension
+dictionary comprehension
+For while Loops
+Switch Case (mathc case )
+Continue Break Pass
+Date time module
+Normalization
+Store Procedure 
+map filter
+Opartion Query
+Aggreate Function
+Sub Query 
+Constarins
+keys
+Joins
+Database connection with Python Mysql
+Regx
+String Methods(0.5)
